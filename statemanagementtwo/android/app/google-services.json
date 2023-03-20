@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55556541387",
+    "project_id": "loginscreen-6b088",
+    "storage_bucket": "loginscreen-6b088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55556541387:android:1d8fcbcbaf7fd95956844e",
+        "android_client_info": {
+          "package_name": "com.example.statemanagementtwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55556541387-21h5hqhtadlb9t3p14np7dnhi574ruln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_p2mZdvqQKyfmMYO0WJXacFiMOciUoq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55556541387-21h5hqhtadlb9t3p14np7dnhi574ruln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
